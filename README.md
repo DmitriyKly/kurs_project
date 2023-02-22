@@ -3,8 +3,8 @@ Dmitriy
 Great man
 
 I can:
-1.drink vodka
-2.drink beer
-3.Sleep
+<br>1.drink vodka
+<br>2.drink beer
+<br>3.Sleep
 
 ![](img/korgi.jpg)
