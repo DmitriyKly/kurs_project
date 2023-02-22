@@ -7,4 +7,4 @@ I can:
 2.drink beer
 3.Sleep
 
-/Users/dmitriy/Documents/Git/HomeWork/kurs_project/img/korgi.jpg
+![](img/korgi.jpg)
